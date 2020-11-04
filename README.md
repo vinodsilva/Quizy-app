@@ -12,4 +12,8 @@ A quiz app in flutter
 - [Auto Size Text](https://pub.dev/packages/auto_size_text)
 
 ## Screenshots
-<img height="480px" src="screenshots/banner.png"><img height="480px" src="screenshots/quiz1.png"> <img height="480px" src="screenshots/quiz2.png"> <img height="480px" src="screenshots/quiz3.png"> <img height="480px" src="screenshots/quiz5.png"> <img height="480px" src="screenshots/quiz6.png"><img height="480px" src="screenshots/q11.png"><img height="480px" src="screenshots/q12.png">
+<img height="480px" src="screenshots/banner.png"><img height="480px" src="screenshots/quiz1.png">
+<img height="480px" src="screenshots/quiz2.png">
+<img height="480px" src="screenshots/quiz3.png">
+<img height="480px" src="screenshots/quiz5.png"> 
+<img height="480px" src="screenshots/quiz6.png"> 
