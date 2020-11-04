@@ -1,9 +1,7 @@
 # OpenTrivia
 A quiz app in flutter
 
-
-
-
+-[Google PlayStore](https://play.google.com/store/apps/details?id=com.vtech.opentrivia)
 
 ## Libraries used
 - [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
