@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":admob_flutter" external.linked.project.path="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.shatsy.admobflutter" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":admob_flutter" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.2.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.2.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/res;file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/res;file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/res;file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/admob_flutter/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ads-17.0.0.aar/4280d26d827ad38f54bb2a880ce45820/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_debug/1.0.0-9a28c3bcf40ce64fee61e807ee3e1395fd6bd954/82300f039b2aca45b0b5a2f3c3eef26efa0b3efe/flutter_embedding_debug-1.0.0-9a28c3bcf40ce64fee61e807ee3e1395fd6bd954.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.21/d207ce2c9bcf17dc8e51bab4dbfdac4d013e7138/kotlin-stdlib-jdk7-1.3.21.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.0.0.aar/6390f8008a835f0b4ec80441aa32f28f/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/9331686c3a4c6a8fc5ec5d1e78590e30/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/8ea9582ef01e4a31db7b637f56bf9c40/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/38c67d282c7564f40abd1a2709fbc350/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8658bf614839f116d8cf01be88fffc81/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c775199fb7abc27f645233f224468715/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/af8dcc7a7d0e3f16adaca1853091fbf3/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/13f4584b6673250ee75a27da7b488e2c/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/c8b331ba9063280477c4aa21f8bd6ed7/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/69cd62e020832a89889539308f82e53e/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/c91668f290280f40d570577b5fa42c55/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1ddd3b0cfa59b374d3f8bae4562df7b2/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/dca434b6373c59cca045ed2ac0fc1d44/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/31d00d535ac8c18ffd5b47d968791da5/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/5b2eb3d12c784f14efb126c39a0dc53c/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/4bcc2012b84840e19e1e28074284cac908be0295/kotlin-stdlib-1.3.21.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/c11ec391c52d0c691497da0dd61cd01b/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.0.0.aar/32489577774f742ff976ba04385f3d70/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.0.0.aar/1934b7d6fbc35f42c22f79c91023ad98/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.0.0.aar/5858a8fee1eee3a30dcee088bd53d0f2/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/d0ea6c6a16d1a99323539f5ad1a312a9/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/afb00cde5cf4c90c8ffd653b04530da8/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/5668616786b1a887fb4641736e02f9df/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/fcbbe7279da3ec1a862434d120052e2e/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/2bd7954d40b834a249fee1a916878ca2/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/2804b31f19ff5e650f6c6f1cdf336b10/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b24c273b8776b2b93469e1a8dd4e6405/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/90eec084a424ed8bf9a67571e0a8f50e/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2f16859f63c8054c126a4c64d0d628ae/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/2d67181674c623fb00b89de53abbbc8a/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/e4381fb189fc800388ec05096a5f43f0/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/ec499300019da05e96f85670965b073e/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.21/f30e4a9897913e53d778f564110bafa1fef46643/kotlin-stdlib-common-1.3.21.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/104716b06f175cfda531bba5f296ffdc/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/954ae6c4cc0b7bc9de718ad5b1dd6a11/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bc712d9086c66a7dee2a0ed3b0a91675/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/a2e072d115a341d78310e2100a6c4a5e/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1d1de033ea37b2d631e2839c40176e96/jars/classes.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3bda6fc683c5eb687518028ed66e247a/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar;C:/Users/dell/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0b9eb7b35b2f766a711463a29be2dafe/jars/classes.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar;C:/Users/dell/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar;C:/Users/dell/AppData/Local/Android/Sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="admob_flutter_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/admob_flutter/intermediates/javac/debug/compileDebugJavaWithJavac/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/admob_flutter/intermediates/javac/debugUnitTest/compileDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android">
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/admob_flutter-0.3.4/android/src/test/shaders" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/resValues/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/resValues/debug" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/rs/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/rs/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/res/rs/debug" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/aidl/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/aidl/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/aidl/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/apt/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/apt/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/apt/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/apt/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/apt/test/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/buildConfig/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/rs/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/rs/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/admob_flutter/generated/source/rs/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-9a28c3bcf40ce64fee61e807ee3e1395fd6bd954@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.21@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.21@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.21@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:26.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.core:common:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-ads:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:16.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:customtabs:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-base:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-api:16.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics-impl:16.2.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:17.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-stats:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common:16.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:16.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid-interop:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:16.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-v4:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-media-compat:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-fragment:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-compat:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime:1.0.0@aar" level="project" />
+  </component>
+</module>

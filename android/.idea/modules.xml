@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1853154881/admob_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1853154881/admob_flutter.iml" group="android/admob_flutter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-555039286/firebase_admob.iml" filepath="$PROJECT_DIR$/.idea/modules/-555039286/firebase_admob.iml" group="android/firebase_admob" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1855239746/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1855239746/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/846209971/firebase_core_web.iml" filepath="$PROJECT_DIR$/.idea/modules/846209971/firebase_core_web.iml" group="android/firebase_core_web" />
+    </modules>
+  </component>
+</project>

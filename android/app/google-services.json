@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "600131118273",
+    "firebase_url": "https://quicy-4cf6b.firebaseio.com",
+    "project_id": "quicy-4cf6b",
+    "storage_bucket": "quicy-4cf6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600131118273:android:b16befa0c0054bbebb2040",
+        "android_client_info": {
+          "package_name": "com.vtech.opentrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600131118273-t1i6rvvvhqkhkttclp44993vqcsjg197.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyTC10gxAq6N0qyiFb1QXqKv-3tUJ0Es"
+        }
+      ],
+      "services": {
+        "admob_app_id": "ca-app-pub-4482437382794331~1402538479",
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600131118273-t1i6rvvvhqkhkttclp44993vqcsjg197.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

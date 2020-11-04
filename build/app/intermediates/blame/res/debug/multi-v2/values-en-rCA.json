@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\dell\\Desktop\\flutter_opentrivia-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dell\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\13f4584b6673250ee75a27da7b488e2c\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

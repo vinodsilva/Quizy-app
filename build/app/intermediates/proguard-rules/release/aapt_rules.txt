@@ -1,0 +1,27 @@
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:96
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:102
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:123
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:77
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:91
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:72
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:87
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:57
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:108
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:117
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:32
+-keep class com.vtech.opentrivia.MainActivity { <init>(...); }
+# Referenced at C:\Users\dell\Desktop\flutter_opentrivia-master\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:23
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
+# Referenced at C:\Users\dell\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\f7530ebfc2571c8b4fcb3c828c6a1e3f\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+

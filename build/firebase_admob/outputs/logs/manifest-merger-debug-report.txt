@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:1:1-4:12
+INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:2:3-45
+		INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml:3:20-62
+uses-sdk
+INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\firebase_admob-0.9.3+4\android\src\main\AndroidManifest.xml
