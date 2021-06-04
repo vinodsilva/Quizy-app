@@ -11,8 +11,5 @@ A quiz app in flutter
 
 ## Screenshots
 <img height="480px" src="screenshots/banner.png"><img height="480px" src="screenshots/quiz1.png">
-<img height="480px" src="screenshots/quiz2.png">
-<img height="480px" src="screenshots/quiz3.png">
-<img height="480px" src="screenshots/quiz4.png">
-<img height="480px" src="screenshots/quiz5.png"> 
+
 
